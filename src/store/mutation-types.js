@@ -1,0 +1,9 @@
+export const ADDRESS = 'ADDRESS'
+
+export const HOUSESOURCE = 'HOUSESOURCE'
+
+export const STARTPLACE = 'STARTPLACE'
+
+export const ENDPLACE = 'STARTPLACE'
+
+export const TOURISMKEYWORD = 'TOURISMKEYWORD'
